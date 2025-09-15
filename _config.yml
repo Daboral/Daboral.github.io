@@ -15,12 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: CLOUD & NETWORK PRACTITIONER
 email: alexmwathi6@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my Cloud & Network Solutions Hub
-  Explore tutorials, projects, and insights on cloud computing, networking, 
-  and infrastructure automation.
-  Built for tech enthusiasts, students, and professionals looking to deepen their
-  understanding of modern IT systems.
+description: >- Welcome to my Cloud & Network Solutions Hub
+  Explore tutorials, projects, and insights on cloud computing, networking, and infrastructure automation.
+  Built for tech enthusiasts, students, and professionals looking to deepen their understanding of modern IT systems.
 twitter_username: Alex_Mwathi
 github_username: Daboral
 minimal_mistakes_skin: default
